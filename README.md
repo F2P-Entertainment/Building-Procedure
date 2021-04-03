@@ -21,6 +21,19 @@ Rule of thumb: If you can't find a specific asset within 10 seconds in Explorer 
 - Group assets and parts together in folders. Attempt to group them at the smallest,
 yet reasonable level possible (A folder for a room is good. An individual folder for
 every part in a room is not).
+
+Below is an example of the map shown (
++ Environment (Entire Map, organized based on location)
+  + Areas: Divide the map into large areas. For instance, the above map can be divided to Hill, Left Slope, Right Slope, Central Pool, Rock Path. 
+    + Subarea: Add if applicable. Used for dividing significant features within an area. For instance, the “houses” should be separated out from “Right Slope”
+      + Specific Area: Used for further separating smaller group units. Use numbers where appropriate. For instance, each house will have their own “House” folder,         such as “House1”
+          - Specific Thing: Used as the group for parts. Use numbers where appropriate. For instance, parts for a bookcase will be put under “bookcase1”
++ Scriptable (Gameplay, organized based on features):
+  + Features: Divide the map’s features that use scripts into different groups. For instance, Teleporters, Doors,etc.
+   + Feature Areas: Add if applicable. Used to divide similar features that appear through the map into areas of significance. For instance, the “Doors” will be          divided into “Left Slope”
+      - Specific features: Used for further dividing scripted features into individualized groups. For instance, “House 1, 2, 3”
+
+
 - In general, group interior builds (ex. inside a house, spaceship) according to rooms;
 group exterior builds (islands, villages, parks) according to distinctive areas of the
 map.
