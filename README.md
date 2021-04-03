@@ -22,7 +22,7 @@ Rule of thumb: If you can't find a specific asset within 10 seconds in Explorer 
 yet reasonable level possible (A folder for a room is good. An individual folder for
 every part in a room is not).
 
-Below is an example of the map shown [Here]![image](https://user-images.githubusercontent.com/69744452/113474503-84463480-949a-11eb-87d8-5d4016964fe0.png)
+Below is an example of the map shown [Here](https://user-images.githubusercontent.com/69744452/113474503-84463480-949a-11eb-87d8-5d4016964fe0.png)
 + Environment (Entire Map, organized based on location)
   + Areas: Divide the map into large areas. For instance, the above map can be divided to Hill, Left Slope, Right Slope, Central Pool, Rock Path. 
     + Subarea: Add if applicable. Used for dividing significant features within an area. For instance, the “houses” should be separated out from “Right Slope”
