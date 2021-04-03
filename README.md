@@ -30,7 +30,7 @@ Below is an example of the map shown (
           - Specific Thing: Used as the group for parts. Use numbers where appropriate. For instance, parts for a bookcase will be put under “bookcase1”
 + Scriptable (Gameplay, organized based on features):
   + Features: Divide the map’s features that use scripts into different groups. For instance, Teleporters, Doors,etc.
-   + Feature Areas: Add if applicable. Used to divide similar features that appear through the map into areas of significance. For instance, the “Doors” will be          divided into “Left Slope”
+    + Feature Areas: Add if applicable. Used to divide similar features that appear through the map into areas of significance. For instance, the “Doors” will be          divided into “Left Slope”
       - Specific features: Used for further dividing scripted features into individualized groups. For instance, “House 1, 2, 3”
 
 
