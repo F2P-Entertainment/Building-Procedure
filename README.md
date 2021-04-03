@@ -1,5 +1,7 @@
 # Building Procedure
 
+![image](https://github.com/F2P-Entertainment/Building-Procedure/blob/main/Kitsune.png)
+
 We encourge you to follow this general guide when building in Roblox Studio.
 This guide's purpose is to create the best practices and workflow for all team members to work together with ease.
 
